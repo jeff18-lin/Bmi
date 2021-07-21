@@ -2,9 +2,9 @@ package com.example.lib
 
 fun main() {
     println("Hello World!")
-    val weight = 65f
+    val weight1 = 65f
     val h = 1.7f
-    val bmi = weight / (h*h)
+    val bmi = weight1 / (h*h)
     println("Your BIM is $bmi")
 }
 
